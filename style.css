@@ -5,15 +5,23 @@
    padding: 0;
   }
 
-h1{
+h1 {
    color: blue;
 }
 
-img{
+img {
    width: 100vw;
    height: auto;
 }
 
 .list {
    background-color: darkslateblue;
+}
+
+.fact {
+   color: white;
+}
+
+.fun {
+   font-style: italic;
 }
